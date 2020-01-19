@@ -18,3 +18,4 @@ class Offer(models.Model):
 
 
 
+
